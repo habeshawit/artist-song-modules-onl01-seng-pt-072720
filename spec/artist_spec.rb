@@ -1,5 +1,4 @@
 require_relative './spec_helper'
-require_relative '../config/environment'
 
 describe Artist do
   before(:each) do
